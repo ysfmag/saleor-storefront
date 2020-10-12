@@ -17,23 +17,23 @@ export const DemoBanner: React.FC = () => {
           <Media maxWidth={mediumScreen}>
             <S.Link
               target="_blank"
-              href="https://pwa.demo.saleor.rocks/graphql/"
+              href="https://demo.saleor.io/graphql/"
             >
               <S.TextEmphasis>API</S.TextEmphasis>
             </S.Link>
             <S.Divider />
-            <S.Link target="_blank" href="https://pwa.saleor.io/dashboard/">
+            <S.Link target="_blank" href="https://demo.saleor.io/dashboard/">
               <S.TextEmphasis>Dashboard</S.TextEmphasis>
             </S.Link>
           </Media>
           <Media minWidth={mediumScreen}>
-            <S.Link target="_blank" href="https://pwa.saleor.io/dashboard/">
+            <S.Link target="_blank" href="https://demo.saleor.io/dashboard/">
               Explore <S.TextEmphasis>Store’s dashboard</S.TextEmphasis>
             </S.Link>
             <S.Divider />
             <S.Link
               target="_blank"
-              href="https://pwa.demo.saleor.rocks/graphql/"
+              href="https://demo.saleor.io/graphql/"
             >
               Play with <S.TextEmphasis>GraphQL API</S.TextEmphasis>
             </S.Link>
