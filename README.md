@@ -1,6 +1,6 @@
 # Saleor Storefront
 
-deploy to next
+deploy to next v1
 
 ![1 copy 2x](https://user-images.githubusercontent.com/5421321/47798207-30aeea00-dd28-11e8-9398-3d8426836a83.png)
 
